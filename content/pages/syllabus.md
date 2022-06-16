@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a general overview of the course and information
+  on the instructor, meeting times, requirements, grading, oral presentations, and
+  a statement on plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
