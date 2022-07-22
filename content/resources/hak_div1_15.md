@@ -5,6 +5,7 @@ file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hak_div1_15.pdf
 uid: 0d3d6058-60e2-a25d-db30-819129d34c30
 ---
 by Richard Hakluyt.
-

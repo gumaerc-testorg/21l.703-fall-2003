@@ -5,6 +5,7 @@ file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: arden_ballad.pdf
 uid: e439ad80-a4f7-198d-76d3-6110ec1c6883
 ---
 A ballad.
-

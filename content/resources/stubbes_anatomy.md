@@ -5,6 +5,7 @@ file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: stubbes_anatomy.pdf
 uid: 32921b80-22c8-25d6-c4bb-48134c10db36
 ---
 by Philip Stubbes.
-

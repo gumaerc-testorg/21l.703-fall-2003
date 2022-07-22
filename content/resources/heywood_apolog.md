@@ -5,6 +5,7 @@ file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: heywood_apolog.pdf
 uid: bee97de3-ced2-c22c-4b3d-61e5877d2eb6
 ---
 By Thomas Heywood.
-
