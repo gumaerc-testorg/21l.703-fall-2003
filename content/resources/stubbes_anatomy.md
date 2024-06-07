@@ -2,6 +2,7 @@
 content_type: resource
 description: by Philip Stubbes.
 file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/32921b8022c825d6c4bb48134c10db36_stubbes_anatomy.pdf
+file_size: 2208734
 file_type: application/pdf
 learning_resource_types:
 - Readings
