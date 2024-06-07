@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/00fe13e79256b45806bdefd0376ae60c_homily_matrimony.pdf
+file_size: 1956925
 file_type: application/pdf
 learning_resource_types:
 - Readings
