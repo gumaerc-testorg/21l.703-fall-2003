@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Epistle to Oxford and Cambridge in Volpone by Ben Jonson.
-file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/fdbd415d3ed3899fd6599e7fe5fbf6db_epistle_jonson.pdf
+file: /ol-ocw-studio-app/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/fdbd415d3ed3899fd6599e7fe5fbf6db_epistle_jonson.pdf
 file_size: 434852
 file_type: application/pdf
 learning_resource_types:
