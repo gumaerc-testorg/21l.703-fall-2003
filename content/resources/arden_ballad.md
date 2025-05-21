@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A ballad.
-file: /ol-ocw-studio-app/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/e439ad80a4f7198d76d36110ec1c6883_arden_ballad.pdf
+file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/e439ad80a4f7198d76d36110ec1c6883_arden_ballad.pdf
 file_size: 164867
 file_type: application/pdf
 learning_resource_types:
