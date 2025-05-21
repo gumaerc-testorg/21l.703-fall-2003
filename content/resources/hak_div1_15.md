@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: by Richard Hakluyt.
-file: /ol-ocw-studio-app/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/0d3d605860e2a25ddb30819129d34c30_hak_div1_15.pdf
+file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/0d3d605860e2a25ddb30819129d34c30_hak_div1_15.pdf
 file_size: 1580321
 file_type: application/pdf
 learning_resource_types:

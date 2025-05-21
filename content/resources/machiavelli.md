@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: By Niccolo Machiavelli.
-file: /ol-ocw-studio-app/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/7270b60fb83153b6187b60b88e84ca4b_machiavelli.pdf
+file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/7270b60fb83153b6187b60b88e84ca4b_machiavelli.pdf
 file_size: 1725629
 file_type: application/pdf
 learning_resource_types:
