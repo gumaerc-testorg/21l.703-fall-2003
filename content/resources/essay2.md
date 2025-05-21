@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Essay Assignment 2
-file: /ol-ocw-studio-app/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/b7b6e5ba6d28580b70e63c4a3107824c_essay2.pdf
+file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/b7b6e5ba6d28580b70e63c4a3107824c_essay2.pdf
 file_size: 17114
 file_type: application/pdf
 learning_resource_types:

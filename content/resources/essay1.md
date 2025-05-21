@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/dd3f17cb5ede0d3f21c99c02b6b76654_essay1.pdf
+file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/dd3f17cb5ede0d3f21c99c02b6b76654_essay1.pdf
 file_size: 17097
 file_type: application/pdf
 learning_resource_types:
