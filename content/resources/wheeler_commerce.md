@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: By John Wheeler.
-file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/5eac5cede58ef0e6d43a7a3b19a23858_wheeler_commerce.pdf
+file: /ol-ocw-studio-app/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/5eac5cede58ef0e6d43a7a3b19a23858_wheeler_commerce.pdf
 file_size: 572033
 file_type: application/pdf
 learning_resource_types:
