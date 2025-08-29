@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: From Richard Hakluyt's "Principal Navigations."
-file: /courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/2a4da2be65bbf121518add6a41f0d3a9_hak_prinav.pdf
+file: /ol-ocw-studio-app/courses/21l-703-english-renaissance-drama-theatre-and-society-in-the-age-of-shakespeare-fall-2003/2a4da2be65bbf121518add6a41f0d3a9_hak_prinav.pdf
 file_size: 552953
 file_type: application/pdf
 learning_resource_types:
